@@ -1,0 +1,14 @@
+C:\Users\Вера\source\repos\provodnik4\provodnik4\bin\Debug\net6.0\provodnik4.exe
+C:\Users\Вера\source\repos\provodnik4\provodnik4\bin\Debug\net6.0\provodnik4.deps.json
+C:\Users\Вера\source\repos\provodnik4\provodnik4\bin\Debug\net6.0\provodnik4.runtimeconfig.json
+C:\Users\Вера\source\repos\provodnik4\provodnik4\bin\Debug\net6.0\provodnik4.dll
+C:\Users\Вера\source\repos\provodnik4\provodnik4\bin\Debug\net6.0\provodnik4.pdb
+C:\Users\Вера\source\repos\provodnik4\provodnik4\obj\Debug\net6.0\provodnik4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вера\source\repos\provodnik4\provodnik4\obj\Debug\net6.0\provodnik4.AssemblyInfoInputs.cache
+C:\Users\Вера\source\repos\provodnik4\provodnik4\obj\Debug\net6.0\provodnik4.AssemblyInfo.cs
+C:\Users\Вера\source\repos\provodnik4\provodnik4\obj\Debug\net6.0\provodnik4.csproj.CoreCompileInputs.cache
+C:\Users\Вера\source\repos\provodnik4\provodnik4\obj\Debug\net6.0\provodnik4.dll
+C:\Users\Вера\source\repos\provodnik4\provodnik4\obj\Debug\net6.0\refint\provodnik4.dll
+C:\Users\Вера\source\repos\provodnik4\provodnik4\obj\Debug\net6.0\provodnik4.pdb
+C:\Users\Вера\source\repos\provodnik4\provodnik4\obj\Debug\net6.0\provodnik4.genruntimeconfig.cache
+C:\Users\Вера\source\repos\provodnik4\provodnik4\obj\Debug\net6.0\ref\provodnik4.dll
